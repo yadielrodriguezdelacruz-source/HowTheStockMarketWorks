@@ -11,8 +11,8 @@ session = requests.Session()
 # Login URL and credentials
 login_url = "https://app.howthemarketworks.com/login"
 login_data = {
-    'username': 'MiBombocla',  # Your username
-    'password': 'tybcyk-sumkoc-wIqqu1'  # Your password
+    'username': '',  # Your username
+    'password': ''  # Your password
 }
 
 # Log in to the site
@@ -117,5 +117,6 @@ if login():
 
 else:
     print("Login failed.")
+
 
 
