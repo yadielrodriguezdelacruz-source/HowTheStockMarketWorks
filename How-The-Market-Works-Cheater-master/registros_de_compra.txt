@@ -1,0 +1,32 @@
+Stock: AMD, Buy Price: $168.58, Change: 3.66%
+Stock: APH, Buy Price: $111.94, Change: 2.83%
+Stock: AXON, Buy Price: $781.90, Change: 4.63%
+Stock: AVGO, Buy Price: $308.65, Change: 3.79%
+Stock: CAT, Buy Price: $434.91, Change: 3.79%
+Stock: CEG, Buy Price: $319.55, Change: 3.76%
+Stock: GLW, Buy Price: $68.65, Change: 2.42%
+Stock: CRWD, Buy Price: $442.00, Change: 4.32%
+Stock: DDOG, Buy Price: $140.96, Change: 3.13%
+Stock: DELL, Buy Price: $134.05, Change: 9.74%
+Stock: DG, Buy Price: $111.71, Change: 2.71%
+Stock: EBAY, Buy Price: $92.51, Change: 2.10%
+Stock: ALGN, Buy Price: $141.96, Price Difference: -17.13%
+Stock: CNC, Buy Price: $29.04, Price Difference: -11.13%
+Stock: CHTR, Buy Price: $265.58, Price Difference: -19.79%
+Stock: CMG, Buy Price: $42.14, Price Difference: -13.20%
+Stock: COIN, Buy Price: $304.54, Price Difference: -12.36%
+Stock: FTNT, Buy Price: $78.77, Price Difference: -16.72%
+Stock: IT, Buy Price: $251.19, Price Difference: -22.40%
+Stock: HRL, Buy Price: $25.44, Price Difference: -12.67%
+Stock: INTU, Buy Price: $667.00, Price Difference: -10.66%
+Stock: KDP, Buy Price: $29.09, Price Difference: -12.75%
+Stock: MKTX, Buy Price: $183.84, Price Difference: -10.05%
+Stock: MRNA, Buy Price: $24.09, Price Difference: -16.92%
+Stock: SMCI, Buy Price: $41.54, Price Difference: -15.09%
+Stock: TTD, Buy Price: $54.66, Price Difference: -22.79%
+Stock: ALGN, Buy Price: $141.96, Price Difference: -17.13%
+Stock: CNC, Buy Price: $29.04, Price Difference: -11.13%
+Stock: CHTR, Buy Price: $265.58, Price Difference: -19.79%
+Stock: CMG, Buy Price: $42.14, Price Difference: -13.20%
+Stock: COIN, Buy Price: $304.54, Price Difference: -12.36%
+Stock: HRL, Buy Price: $25.44, Price Difference: -12.67%
